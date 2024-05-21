@@ -1,0 +1,66 @@
+* {
+    margin: 0;
+    
+    box-sizing: border-box;
+  }
+
+  .box1{
+    padding: 10px;
+    height: 100px;
+    background-color: green;
+    margin: 20px 20px 0px 20px;
+  }
+
+  .box2{
+    padding: 10px;
+    height: 100px;
+    background-color: blue;
+    margin: 40px 20px 40px 20px;
+  }
+
+  .boxred{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    margin: 20px;
+  }
+  .boxyellow{
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    margin: 20px;
+  }
+  .boxgreen{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    color: green;
+    margin: 20px;
+  }
+  .boxpink{
+    width: 100px;
+    height: 100px;
+    background-color: pink;
+    margin: 20px;
+  }
+  .boxcyan{
+    width: 100px;
+    height: 100px;
+    background-color: cyan;
+    margin: 20px;
+  }
+  .boxblue{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    margin: 20px;
+  }
+  .link1{
+    padding: 20px;
+  }
+  .link2{
+    padding: 20px;
+    color: white;
+  }
+
+  
