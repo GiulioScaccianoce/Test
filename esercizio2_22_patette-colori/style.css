@@ -1,0 +1,185 @@
+*{
+    font-weight: bold;
+}
+.sezione1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.container {
+    max-width: 1200px;
+    display: grid;
+    gap: 10px 10px;
+    grid-template-columns: auto auto auto auto auto auto;
+    padding: 10px;
+}
+
+.img1{
+    background-color:#fae497;
+    padding: 50%;
+}
+.img2{
+        background-color:#fbdd7e;
+        padding: 50%;
+}
+.img3{
+        background-color:#fecc4e;
+        padding: 50%;
+}
+.img4{
+        background-color:#feb317;
+        padding: 50%;
+}
+.img5{
+        background-color:#c7942c;
+        padding: 50%;
+}
+.img6{
+        background-color:#ad852c;
+        padding: 50%;
+}
+.img7{
+        background-color:#87ab84;
+        padding: 50%;
+}
+.img8{
+        background-color:#649767;
+        padding: 50%;
+}
+.img9{
+        background-color:#3b824a;
+        padding: 50%;
+}
+.img20{
+        background-color:#276b34;
+        padding: 50%;
+}
+.img21{
+        background-color:#17582f;
+        padding: 50%;
+}
+.img22{
+        background-color:#09411e;
+        padding: 50%;
+}
+.img23{
+        background-color:#71c6eb;
+        padding: 50%;
+}
+.img24{
+        background-color:#21bbd9;
+        padding: 50%;
+}
+.img25{
+        background-color:#1899d5;
+        padding: 50%;
+}
+.img26{
+        background-color:#0e7eac;
+        padding: 50%;
+}
+.img27{
+        background-color:#025073;
+        padding: 50%;
+}
+.img28{
+        background-color:#00334b;
+        padding: 50%;
+}
+.img29{
+        background-color:#c6a6cf;
+        padding: 50%;
+}
+.img30{
+        background-color:#a577b4;
+        padding: 50%;
+}
+.img31{
+        background-color:#7a4199;
+        padding: 50%;
+}
+.img32{
+        background-color:#5c2b79;
+        padding: 50%;
+}
+.img33{
+        background-color:#472463;
+        padding: 50%;
+}
+.img34{
+        background-color:#3c184f;
+        padding: 50%;
+}
+.img35{
+        background-color:#f4a4bd;
+        padding: 50%;
+}
+.img36{
+        background-color:#eb75aa;
+        padding: 50%;
+}
+.img37{
+        background-color:#ef4f8c;
+        padding: 50%;
+}
+.img38{
+        background-color:#e21671;
+        padding: 50%;
+}
+.img39{
+        background-color:#cc1c55;
+        padding: 50%;
+}
+.img40{
+        background-color:#aa1c48;
+        padding: 50%;
+}
+.img41{
+        background-color:#f9a2a6;
+        padding: 50%;
+}
+.img42{
+        background-color:#f3747b;
+        padding: 50%;
+}
+.img43{
+        background-color:#ef4246;
+        padding: 50%;
+}
+.img44{
+        background-color:#e31e27;
+        padding: 50%;
+}
+.img45{
+        background-color:#b11e24;
+        padding: 50%;
+}
+.img46{
+        background-color:#7d1317;
+        padding: 50%;
+}
+.img47{
+        background-color:#fcdd9f;
+        padding: 50%;
+}
+.img48{
+        background-color:#f9c177;
+        padding: 50%;
+}
+.img49{
+        background-color:#f68c49;
+        padding: 50%;
+}
+.img50{
+        background-color:#f2671f;
+        padding: 50%;
+}
+.img51{
+        background-color:#e14f25;
+        padding: 50%;
+}
+.img52{
+        background-color:#a64022;
+        padding: 50%;
+}

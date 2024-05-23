@@ -1,0 +1,30 @@
+/* CSS RESET */
+*{
+    list-style: none;
+    text-decoration: none;
+}
+.sezione1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.container{
+    position: relative;
+    width: 400px;
+    height: 600px;
+    background-color: gray;
+    border-radius: 25px;
+}
+
+.box{
+    padding: 10px 15px;
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    border-radius: 25px;
+}
+
+.container:hover .box{
+    background-color: red;
+}

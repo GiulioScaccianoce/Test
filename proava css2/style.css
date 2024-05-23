@@ -44,6 +44,8 @@ gap: 15px;
     font-size: 30px;
 }
 .section2 ul li img{
+    display: grid;
+    columns: auto auto auto;
     height: calc(100vh - 80px);
     border-radius: 10px;
     /*padding: 10px 15px;*/
@@ -62,14 +64,21 @@ gap: 15px;
     border-radius: 25px;
 }
 .section3 ul li img {
-    height: calc(100vh - 80px);
-    border-radius: 10px;
+    height: 100%;
+    width: 100%;
+    
+    border-radius:10px;
     margin: 10px;
+}
+.section3 ul li{
+    height: 100px;
+    width: 100px;
 }
 .section3 ul {
     display: grid;
     align-items: center;
     grid-template-columns: auto auto auto ;
+
     gap: 20px;
     padding: 20px;
 }
